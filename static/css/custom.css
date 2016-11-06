@@ -1,0 +1,9 @@
+.header-image {
+	background-image: url('/img/zitlalli.soy.001-sm.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 250px; 
+	width: 250px; 
+	margin: 0 auto; 
+	border-radius: 100%;
+}
