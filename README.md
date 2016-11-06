@@ -1,4 +1,3 @@
 # Zitlalli.Soy
 
-## Stuff and things# Zitlalli.Soy
-
+My personal site: [www.zitlalli.soy](http://www.zitlalli.soy/)
